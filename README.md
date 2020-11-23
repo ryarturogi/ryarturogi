@@ -1,5 +1,4 @@
-<img src="https://pbs.twimg.com/media/EQ1TyXZWAAYWrYx?format=png&name=small" title="RyArturoGi"/>
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on two projects right now Contrata.com.do/ - Asi.do/
 - 🌱 I’m currently learning React JS/Next Js/ Typescript
@@ -57,8 +56,14 @@ Santo Domingo (Dominican Republic)
 
 ## Networks
 
-facebook.com/ryarturogi/
-twitter.com/ryarturogi/
-linkedin.com/in/ryarturogi/
-upwork.com/freelancers/~01bd40e147e1154b
-contrata.com.do/servicio/ricardo-guillen
+[Facebook](https://facebook.com/ryarturogi/ "Facebook's Profile")
+
+[Twitter](https://twitter.com/ryarturogi/ "Twitter's Profile")
+
+[Linkedin](https://linkedin.com/in/ryarturogi/ "Linkedin's Profile")
+
+[Upwork](https://upwork.com/freelancers/~01bd40e147e1154b "Upwork's Profile")
+
+[Contrata](https://contrata.com.do/servicio/ricardo-guillen "Contrata's Profile")
+
+
