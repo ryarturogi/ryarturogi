@@ -24,8 +24,9 @@ Bootstrap, JavaScript, HTML5, CSS, Adobe XD
 
 ## Experience
 
-Front Stack Developer Feb 2015 - Present
-Contrata.com.do, Dominican Republic
+<b>Front Stack Developer Feb 2015 - Present</b> <br />
+Contrata.com.do <br />
+Dominican Republic
 
 Contrata Is a marketplace of services that focuses on improving client to provider.
 in the best way through multiple solutions.
@@ -33,26 +34,26 @@ in the best way through multiple solutions.
 - Developed the Front-End for the new web site contrata.com.do.
 - Migrated the website from wordpress to fully-scalable webapp made Spanish Native in VueJs/NuxtJs.
 
-Full-Stack Web Developer Mar 2013 - Nov 2015
-Doble Group SRL, Miami, FL (US)
+<b>Full-Stack Web Developer Mar 2013 - Nov 2015</b> <br />
+Doble Group SRL <br />
+Miami, FL (US)
 
 Is a boutique consulting firm that focuses on improving commercial
 business results through Cloud CRM solutions.
 
-- Developed the new web site doblegroup.com.
-- Self-changer I'm not afraid to change my ideals if
-- Migrated the old database from drupal to worpdress data tables. someone show me it's necessary
+- Developed the new web site doblegroup.com
+- Self-changer I'm not afraid to change my ideals
+- Migrated the old database from drupal to worpdress data tables
 - Created the landing page system.
 
 ## Skills & Specialization
 
-Front-end, Bootstrap, Mongodb, Css, Javascript, Html, Vue.js, Node.js, Vuejs, Nuxtjs, Axios, Vuex
+Front-end, HTML5, SCSS, Bootstrap, Javascript, Vue.js, Nuxtjs, Axios, Vuex, Node.js, Mongodb,
 
 ## Education
 
-Apec Feb 2006 - Oct 2009
+Apec Feb 2006 - Oct 2009  <br />
 Bachelor's Degree, Graphic Design
-Santo Domingo (Dominican Republic)
 
 ## Networks
 
@@ -62,8 +63,8 @@ Santo Domingo (Dominican Republic)
 
 [Linkedin](https://linkedin.com/in/ryarturogi/ "Linkedin's Profile")
 
-[Upwork](https://upwork.com/freelancers/~01bd40e147e1154b "Upwork's Profile")
-
 [Contrata](https://contrata.com.do/servicio/ricardo-guillen "Contrata's Profile")
+
+[Portfolio](https://contrata.com.do/servicio/ricardo-guillen "Portfolio website")
 
 
