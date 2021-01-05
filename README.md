@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on two projects right now Contrata.com.do/ - Asi.do/
-- 🌱 I’m currently learning React JS/Next Js/ Typescript
-- 👯 I’m looking to collaborate on React Js Jobs
-- 🤔 I’m looking for help with React Js Jobs
+- 🌱 I’m currently learning React JS/Next Js/ Typescript / Rails
+- 👯 I’m looking to collaborate on VueJs Jobs
+- 🤔 I’m looking for help with VueJs Jobs
 - 💬 Ask me about outdoor adventures i know some secret places.. 
 - 📫 How to reach me: r.arturogi@gmail.com
 - 😄 Pronouns: Ry, Richard, Richie, Viejito, Arturo
