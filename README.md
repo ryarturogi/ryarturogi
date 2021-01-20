@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on two projects right now Contrata.com.do/ - Asi.do/
-- 🌱 I’m currently learning React JS/Next Js/ Typescript / Rails
-- 👯 I’m looking to collaborate on VueJs Jobs
-- 🤔 I’m looking for help with VueJs Jobs
+- 🌱 I’m currently learning React JS | Next Js | Typescript | Rails | Tailwind CSS
+- 👯 I’m looking to collaborate on VueJs/NuxtJs Jobs
+- 🤔 I’m looking for help with VueJs/NuxtJs Jobs
 - 💬 Ask me about outdoor adventures i know some secret places.. 
 - 📫 How to reach me: r.arturogi@gmail.com
 - 😄 Pronouns: Ry, Richard, Richie, Viejito, Arturo
@@ -14,13 +14,16 @@ It makes me proud to know that I am part of a large group of entrepreneurs who w
 thus improve the systems that are becoming more complex every day. Along the way I have learned many new
 programming concepts that have made me develop much better today as a Web Application designer / programmer
 
-### Features Skills 2020
+### Front-End Stack 2021
 
 #### Web Development
-Javascript ES6, Vue JS, Nuxt JS, Node JS, CMS: WordPress, DB: MongoDB
+Javascript ES6, Vue JS, Nuxt JS, Node JS, CMS: WordPress, DB: MongoDB, Firebase
 
 #### Website Design
 Bootstrap, JavaScript, HTML5, CSS, Adobe XD
+
+#### Tools
+VsCode, Git, Github, Jira, Slack, Heroku, Postman
 
 ## Experience
 
