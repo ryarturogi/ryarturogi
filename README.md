@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on VueJs/NuxtJs Jobs
 - 🤔 I’m looking for help with VueJs/NuxtJs Jobs
 - 💬 Ask me about outdoor adventures i know some secret places.. 
-- 📫 How to reach me: r.arturogi@gmail.com
+- 📫 How to reach me: ricardo.guillen@elaniin.com
 - 😄 Pronouns: Ry, Richard, Richie, Viejito, Arturo
 - ⚡ Fun fact: Living the dream in the paradise, Dominican Republic
 
@@ -27,7 +27,7 @@ VsCode, Git, Github, Jira, Slack, Heroku, Postman
 
 ## Experience
 
-<b>Front Stack Developer Feb 2015 - Present</b> <br />
+<b>FrontEnd Developer Feb 2015 - Present</b> <br />
 Contrata.com.do <br />
 Dominican Republic
 
