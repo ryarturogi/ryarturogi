@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on two projects right now Contrata.com.do/ - Asi.do/
-- 🌱 I’m currently learning React JS | Next Js | Typescript | Rails | Tailwind CSS
+- 🔭 I’m currently working at Elaniin - Tech Company - [Elaniin](https://elaniin.com/ "Elaniin - Tech Company")
+- 🌱 I’m currently learning React JS | Next Js | Typescript  Tailwind CSS
 - 👯 I’m looking to collaborate on VueJs/NuxtJs Jobs
 - 🤔 I’m looking for help with VueJs/NuxtJs Jobs
 - 💬 Ask me about outdoor adventures i know some secret places.. 
-- 📫 How to reach me: ricardo.guillen@elaniin.com
+- 📫 How to reach me: ricardo.guillen@elaniin.com // r.arturogi@gmail.com
 - 😄 Pronouns: Ry, Richard, Richie, Viejito, Arturo
 - ⚡ Fun fact: Living the dream in the paradise, Dominican Republic
 
@@ -20,10 +20,10 @@ programming concepts that have made me develop much better today as a Web Applic
 Javascript ES6, Vue JS, Nuxt JS, Node JS, CMS: WordPress, DB: MongoDB, Firebase
 
 #### Website Design
-Bootstrap, JavaScript, HTML5, CSS, Adobe XD
+Bootstrap, JavaScript, HTML5, CSS, Adobe XD, Figma, TailwindCSS
 
 #### Tools
-VsCode, Git, Github, Jira, Slack, Heroku, Postman
+VsCode, Git, Github, Gitlab, Jira, Slack, Heroku, Postman
 
 ## Experience
 
@@ -67,7 +67,4 @@ Bachelor's Degree, Graphic Design
 [Linkedin](https://linkedin.com/in/ryarturogi/ "Linkedin's Profile")
 
 [Contrata](https://contrata.com.do/servicio/ricardo-guillen "Contrata's Profile")
-
-[Portfolio](https://contrata.com.do/servicio/ricardo-guillen "Portfolio website")
-
 
