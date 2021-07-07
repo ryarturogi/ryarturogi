@@ -27,8 +27,26 @@ VsCode, Git, Github, Gitlab, Jira, Slack, Heroku, Postman
 
 ## Experience
 
-<b>FrontEnd Developer Feb 2015 - Present</b> <br />
-Contrata.com.do <br />
+**Elaniin - Tech Company** <br />
+**Lead FrontEnd Developer Feb 2021 - Present** <br />
+El Salvador <br />
+
+• Leader of Credicomer’s Digital Bank project.
+• Ensure every team member implements web development’s best practices.
+• Help optimize the loading time of existing websites by using VueJS and
+debugging the complete code.
+- Prepare the development environment with NuxtJS and VueJS.
+- Design and develop web interfaces.
+- Integrate modules to handle of international phone numbers.
+- Design and implement an export feature for PDF and CSV.
+- Create reusable components.
+- Create a Slide-Out features for voucher management.
+- Create the integration for the authentication module.
+- Create the calendar picker component.
+- Technologies: JavaScript, NuxtJS, VueJS, Bootstrap,TailwindCS
+
+**Contrata.com.do** <br />
+**FrontEnd Developer Feb 2015 - 2020** <br />
 Dominican Republic
 
 Contrata Is a marketplace of services that focuses on improving client to provider.
@@ -37,8 +55,8 @@ in the best way through multiple solutions.
 - Developed the Front-End for the new web site contrata.com.do.
 - Migrated the website from wordpress to fully-scalable webapp made Spanish Native in VueJs/NuxtJs.
 
-<b>Full-Stack Web Developer Mar 2013 - Nov 2015</b> <br />
-Doble Group SRL <br />
+**Doble Group SRL** <br />
+**Full-Stack Web Developer Mar 2013 - Nov 2015** <br />
 Miami, FL (US)
 
 Is a boutique consulting firm that focuses on improving commercial
