@@ -78,6 +78,8 @@ Bachelor's Degree, Graphic Design
 
 ## Networks
 
+[Gitlab](https://gitlab.com/ricardo.guillen)
+
 [Facebook](https://facebook.com/ryarturogi/ "Facebook's Profile")
 
 [Twitter](https://twitter.com/ryarturogi/ "Twitter's Profile")
