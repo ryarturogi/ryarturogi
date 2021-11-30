@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Ryarturogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryarturogi)](https://github.com/ryarturogi/github-readme-stats)
 
 - 🔭 I’m currently working at Elaniin - Tech Company - [Elaniin](https://elaniin.com/ "Elaniin - Tech Company")
 - 🌱 I’m currently learning React JS | Next Js | Typescript  Tailwind CSS
