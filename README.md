@@ -1,6 +1,4 @@
 ## Hi there 👋
-[![Ryarturogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryarturogi)](https://github.com/ryarturogi/github-readme-stats)
-
 - 🔭 I’m currently working at Elaniin - Tech Company - [Elaniin](https://elaniin.com/ "Elaniin - Tech Company")
 - 🌱 I’m currently learning React JS | Next Js | Typescript  Tailwind CSS
 - 👯 I’m looking to collaborate on VueJs/NuxtJs Jobs
@@ -88,4 +86,12 @@ Bachelor's Degree, Graphic Design
 [Linkedin](https://linkedin.com/in/ryarturogi/ "Linkedin's Profile")
 
 [Contrata](https://contrata.com.do/servicio/ricardo-guillen "Contrata's Profile")
+
+## Stats
+[![Ryarturogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryarturogi)](https://github.com/ryarturogi)
+<br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryarturogi)](https://github.com/ryarturogi)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryarturogi)](https://github.com/ryarturogi)
+
 
