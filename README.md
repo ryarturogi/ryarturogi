@@ -1,22 +1,16 @@
 ## Hi there 👋
 - 🔭 I’m currently working at Elaniin - Tech Company - [Elaniin](https://elaniin.com/ "Elaniin - Tech Company")
-- 🌱 I’m currently learning React JS | Next Js | Typescript  Tailwind CSS
-- 👯 I’m looking to collaborate on VueJs/NuxtJs Jobs
-- 🤔 I’m looking for help with VueJs/NuxtJs Jobs
+- 🌱 I’m currently learning React JS | Next Js | Typescript  Tailwind CSS, Data Structures, Algorithms & Design Patterns
+- 👯 I’m looking to collaborate on VueJs/NuxtJs/ReactJs/NextJs Jobs
 - 💬 Ask me about outdoor adventures i know some secret places.. 
 - 📫 How to reach me: ricardo.guillen@elaniin.com // r.arturogi@gmail.com
-- 😄 Pronouns: Ry, Richard, Richie, Viejito, Arturo
-- ⚡ Fun fact: Living the dream in the paradise, Dominican Republic
+- 😄 Pronouns: Ry, Richard, Richie, Viejito, Arturo, Ragi
+- ⚡ Fun fact: Coffee, Code, Sleep, Repeat...
 
-In my course working on web develoment I loved helping to improve and optimize the image of digital companies.
-It makes me proud to know that I am part of a large group of entrepreneurs who want to create new things and
-thus improve the systems that are becoming more complex every day. Along the way I have learned many new
-programming concepts that have made me develop much better today as a Web Application designer / programmer
-
-### Front-End Stack 2021
+### Front-End Stack 2022
 
 #### Web Development
-Javascript ES6, Vue JS, Nuxt JS, Node JS, CMS: WordPress, DB: MongoDB, Firebase
+Javascript ES6, Vue JS, Nuxt JS, ReactJs, NextJs, Node JS, CMS: WordPress, DB: MongoDB, Firebase
 
 #### Website Design
 Bootstrap, JavaScript, HTML5, CSS, Adobe XD, Figma, TailwindCSS
@@ -30,9 +24,9 @@ VsCode, Git, Github, Gitlab, Jira, Slack, Heroku, Postman
 **Lead FrontEnd Developer Feb 2021 - Present** <br />
 El Salvador <br />
 
-• Leader of Credicomer’s Digital Bank project.
-• Ensure every team member implements web development’s best practices.
-• Help optimize the loading time of existing websites by using VueJS and
+- Leader of Credicomer’s Digital Bank project.
+- Ensure every team member implements web development’s best practices.
+- Help optimize the loading time of existing websites by using VueJS and
 debugging the complete code.
 - Prepare the development environment with NuxtJS and VueJS.
 - Design and develop web interfaces.
@@ -68,7 +62,7 @@ business results through Cloud CRM solutions.
 
 ## Skills & Specialization
 
-Front-end, HTML5, SCSS, Bootstrap, Javascript, Vue.js, Nuxtjs, Axios, Vuex, Node.js, Mongodb,
+Front-end, HTML5, CSS3, TailwindCSS, Javascript, Vue.js, Vuex, Nuxtjs, Axios, ReactJs, NextJs, Node.js, Mongodb,
 
 ## Education
 
@@ -79,13 +73,9 @@ Bachelor's Degree, Graphic Design
 
 [Gitlab](https://gitlab.com/ricardo.guillen)
 
-[Facebook](https://facebook.com/ryarturogi/ "Facebook's Profile")
-
 [Twitter](https://twitter.com/ryarturogi/ "Twitter's Profile")
 
 [Linkedin](https://linkedin.com/in/ryarturogi/ "Linkedin's Profile")
-
-[Contrata](https://contrata.com.do/servicio/ricardo-guillen "Contrata's Profile")
 
 ## Stats
 [![Ryarturogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryarturogi)](https://github.com/ryarturogi)
