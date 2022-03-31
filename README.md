@@ -7,7 +7,7 @@
 - 😄 Pronouns: Ry, Richard, Richie, Viejito, Arturo, Ragi
 - ⚡ Fun fact: Coffee, Code, Sleep, Repeat...
 
-### Front-End Stack 2022
+### Stack 2022
 
 #### Web Development
 Javascript ES6, Vue JS, Nuxt JS, ReactJs, NextJs, Node JS, CMS: WordPress, DB: MongoDB, Firebase
