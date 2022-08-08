@@ -16,7 +16,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/a8ce3f3b913e43e6bdb76a6d539a9927.png?r=x9s" 
+      src="https://github.com/ryarturogi/ryarturogi/blob/master/devcard.svg" 
       alt="Ricardo Guillen's Dev Card"
     />
   </a>
