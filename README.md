@@ -1,3 +1,27 @@
+<div align="left">
+  <a href="https://twitter.com/ryarturogi">
+    <img
+      src="https://img.shields.io/twitter/follow/ryarturogi?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/ryarturogi/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/ryarturogi" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/a8ce3f3b913e43e6bdb76a6d539a9927.png?r=x9s" 
+      alt="Ricardo Guillen's Dev Card"
+    />
+  </a>
+</div>
+
 ## Hi there 👋
 - 🔭 I’m currently working at Elaniin - Tech Company - [Elaniin](https://elaniin.com/ "Elaniin - Tech Company")
 - 🌱 I’m currently learning React JS | Next Js | Typescript  Tailwind CSS, Data Structures, Algorithms & Design Patterns
