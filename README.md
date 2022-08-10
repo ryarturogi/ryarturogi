@@ -1,4 +1,24 @@
 <div align="left">
+  <a href="https://app.daily.dev/ryarturogi" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/ryarturogi/ryarturogi/blob/master/devcard.svg" 
+      alt="Ricardo Guillen's Dev Card"
+    />
+  </a>
+</div>
+
+## Hi there 👋
+- 🔭 I’m currently working at Elaniin - Tech Company - [Elaniin](https://elaniin.com/ "Elaniin - Tech Company")
+- 🌱 I’m currently learning React JS | Next Js | Typescript  Tailwind CSS, Data Structures, Algorithms & Design Patterns
+- 👯 I’m looking to collaborate on VueJs/NuxtJs/ReactJs/NextJs Jobs
+- 💬 Ask me about outdoor adventures i know some secret places.. 
+- 📫 How to reach me: ricardo.guillen@elaniin.com // r.arturogi@gmail.com
+- 😄 Pronouns: Ry, Richard, Richie, Viejito, Arturo, Ragi
+- ⚡ Fun fact: Coffee, Code, Sleep, Repeat...
+
+<div align="left">
   <a href="https://twitter.com/ryarturogi">
     <img
       src="https://img.shields.io/twitter/follow/ryarturogi?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
@@ -20,24 +40,8 @@
   </a>
     
 
-  <a href="https://app.daily.dev/ryarturogi" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/ryarturogi/ryarturogi/blob/master/devcard.svg" 
-      alt="Ricardo Guillen's Dev Card"
-    />
-  </a>
+ 
 </div>
-
-## Hi there 👋
-- 🔭 I’m currently working at Elaniin - Tech Company - [Elaniin](https://elaniin.com/ "Elaniin - Tech Company")
-- 🌱 I’m currently learning React JS | Next Js | Typescript  Tailwind CSS, Data Structures, Algorithms & Design Patterns
-- 👯 I’m looking to collaborate on VueJs/NuxtJs/ReactJs/NextJs Jobs
-- 💬 Ask me about outdoor adventures i know some secret places.. 
-- 📫 How to reach me: ricardo.guillen@elaniin.com // r.arturogi@gmail.com
-- 😄 Pronouns: Ry, Richard, Richie, Viejito, Arturo, Ragi
-- ⚡ Fun fact: Coffee, Code, Sleep, Repeat...
 
 ## Stack 2022
 
