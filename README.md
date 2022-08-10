@@ -11,6 +11,14 @@
       alt="LinkedIn"
     />
   </a>
+  
+  <a href="https://gitlab.com/ricardo.guillen">
+    <img
+      src="https://img.shields.io/static/v1?logo=gitlab&style=flat-square&color=fca326&label=Gitlab&message=%E2%98%86"
+      alt="Gitlab"
+    />
+  </a>
+    
 
   <a href="https://app.daily.dev/ryarturogi" target="_blank">
     <img
@@ -31,17 +39,47 @@
 - 😄 Pronouns: Ry, Richard, Richie, Viejito, Arturo, Ragi
 - ⚡ Fun fact: Coffee, Code, Sleep, Repeat...
 
-### Stack 2022
+## Stack 2022
 
-#### Web Development
-Javascript ES6, Vue JS, Nuxt JS, ReactJs, NextJs, Node JS, CMS: WordPress, DB: MongoDB, Firebase
+### Web Development
+#### Languages:
+- HTML5
+- CSS3
+- Javascript
 
-#### Website Design
-Bootstrap, JavaScript, HTML5, CSS, Adobe XD, Figma, TailwindCSS
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://ryarturogi.github.io)
+#### Frameworks:
+- VueJs
+- NuxtJs
+- ReactJs
+- NextJs 
+- NodeJs
 
-#### Tools
-VsCode, Git, Github, Gitlab, Jira, Slack, Heroku, Postman
+[![My Skills](https://skillicons.dev/icons?i=vuejs,nuxtjs,react,nextjs,nodejs)](https://ryarturogi.github.io)
+#### CMS: 
+- Wordpress 
+- Laravel
 
+[![My Skills](https://skillicons.dev/icons?i=wordpress,laravel)](https://ryarturogi.github.io)
+#### Server: 
+- Firebase
+- Supabase
+- MongoDB/NoSQL
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,supabase,mongodb)](https://ryarturogi.github.io)
+### Website Design:
+- Figma, 
+- TailwindCSS
+
+[![My Skills](https://skillicons.dev/icons?i=figma,tailwind)](https://ryarturogi.github.io)
+### Tools:
+- VsCode, 
+- Git, 
+- Github, 
+- Gitlab 
+- Heroku
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,heroku)](https://ryarturogi.github.io)
 ## Experience
 
 **Elaniin - Tech Company** <br />
@@ -92,14 +130,6 @@ Front-end, HTML5, CSS3, TailwindCSS, Javascript, Vue.js, Vuex, Nuxtjs, Axios, Re
 
 Apec Feb 2006 - Oct 2009  <br />
 Bachelor's Degree, Graphic Design
-
-## Networks
-
-[Gitlab](https://gitlab.com/ricardo.guillen)
-
-[Twitter](https://twitter.com/ryarturogi/ "Twitter's Profile")
-
-[Linkedin](https://linkedin.com/in/ryarturogi/ "Linkedin's Profile")
 
 ## Stats
 [![Ryarturogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryarturogi)](https://github.com/ryarturogi)
