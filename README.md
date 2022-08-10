@@ -9,7 +9,7 @@
   </a>
 </div>
 
-## Hi there 👋
+## 👋 Hi there
 - 🔭 I’m currently working at Elaniin - Tech Company - [Elaniin](https://elaniin.com/ "Elaniin - Tech Company")
 - 🌱 I’m currently learning React JS | Next Js | Typescript  Tailwind CSS, Data Structures, Algorithms & Design Patterns
 - 👯 I’m looking to collaborate on VueJs/NuxtJs/ReactJs/NextJs Jobs
@@ -43,7 +43,7 @@
  
 </div>
 
-## Stack 2022
+## ⚡️ Stack 2022
 
 ### Web Development
 #### Languages:
@@ -84,7 +84,7 @@
 - Heroku
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,heroku)](https://ryarturogi.github.io)
-## Experience
+## 🥾 Experiences
 
 **Elaniin - Tech Company** <br />
 **Lead FrontEnd Developer Feb 2021 - Present** <br />
@@ -125,17 +125,13 @@ business results through Cloud CRM solutions.
 - Self-changer I'm not afraid to change my ideals
 - Migrated the old database from drupal to worpdress data tables
 - Created the landing page system.
+- Technologies: Front-end, HTML5, CSS3, TailwindCSS, Javascript, Vue.js, Vuex, Nuxtjs, Axios, ReactJs, NextJs, Node.js, Mongodb,
 
-## Skills & Specialization
-
-Front-end, HTML5, CSS3, TailwindCSS, Javascript, Vue.js, Vuex, Nuxtjs, Axios, ReactJs, NextJs, Node.js, Mongodb,
-
-## Education
-
-Apec Feb 2006 - Oct 2009  <br />
+## 📚 Education
+Universidad Apec - Feb 2006 - Oct 2009  <br />
 Bachelor's Degree, Graphic Design
 
-## Stats
+## 📊 Stats
 [![Ryarturogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryarturogi)](https://github.com/ryarturogi)
 <br />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryarturogi)](https://github.com/ryarturogi)
