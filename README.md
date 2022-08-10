@@ -82,8 +82,9 @@
 - Github, 
 - Gitlab 
 - Heroku
+- Vercel
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,heroku)](https://ryarturogi.github.io)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,heroku,vercel)](https://ryarturogi.github.io)
 ## 🥾 Experiences
 
 **Elaniin - Tech Company** <br />
