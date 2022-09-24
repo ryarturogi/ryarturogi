@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Typescript, Algorithms & Design Patterns
 - 💬 Ask me about outdoor adventures i know some secret places.. 
 - 📫 How to reach me: ricardo.guillen@elaniin.com // r.arturogi@gmail.com
-- 😄 Pronouns: Ry, Richard, Richie, Viejito, Arturo, Ragi
+- 😄 Nicknames: Ry, Richard, Richie, Viejito, Arturo, Ragi
 - ⚡ Fun fact: Coffee, Code, Sleep, Repeat...
 
 <div align="left">
