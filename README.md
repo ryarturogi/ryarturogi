@@ -11,8 +11,8 @@
 
 # 👋 Hi there
 - 🔭 I’m currently working at Elaniin - Tech Company - [Elaniin](https://elaniin.com/ "Elaniin - Tech Company")
-- 🌱 I’m currently learning React JS | Next Js | Typescript  Tailwind CSS, Data Structures, Algorithms & Design Patterns
 - 👯 I’m looking to collaborate on VueJs/NuxtJs/ReactJs/NextJs Jobs
+- 🌱 I’m currently learning Typescript, Algorithms & Design Patterns
 - 💬 Ask me about outdoor adventures i know some secret places.. 
 - 📫 How to reach me: ricardo.guillen@elaniin.com // r.arturogi@gmail.com
 - 😄 Pronouns: Ry, Richard, Richie, Viejito, Arturo, Ragi
