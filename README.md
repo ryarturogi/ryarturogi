@@ -16,7 +16,7 @@
 - 💬 Ask me about outdoor adventures i know some secret places.. 
 - 📫 How to reach me: ricardo.guillen@elaniin.com // r.arturogi@gmail.com
 - 😄 Nicknames: Ry, Richard, Richie, Viejito, Arturo, Ragi
-- ⚡ Fun fact: Coffee, Code, Sleep, Repeat...
+- ⚡ Fun fact: I drink React.js like coffee every morning!
 
 <div align="left">
   <a href="https://twitter.com/ryarturogi">
