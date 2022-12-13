@@ -139,4 +139,5 @@
   <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryarturogi)](https://github.com/ryarturogi)
 
-
+# 📗 Resume
+[Resume-Ricardo-Guillen-I-FrontEnd-developer](https://github.com/ryarturogi/ryarturogi/files/10219399/Resume-Ricardo-Guillen-I.7.pdf)
