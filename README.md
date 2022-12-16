@@ -10,6 +10,13 @@
 </div>
 
 # 👋 Hi there
+
+As a senior front-end developer with over 8+ years of experience in software development, there has been a variety of projects worked on across multiple industries. Passion for using skills to create beautiful and powerful apps that can improve people's lives is held. 
+
+Trained in HTML5, CSS3, and Javascript (React/Vue/Nuxt.js/Next.js), and experimenting with new technologies. Some notable career highlights include improving the SEO for a services marketplace app, increasing the delivery of code to production by 150%, and leading a team to create a digital banking system from scratch. 
+
+In free time, enjoy exploring the outdoors and going on adventures like hiking.
+
 - 🔭 I’m currently working at Elaniin - Tech Company - [Elaniin](https://elaniin.com/ "Elaniin - Tech Company")
 - 👯 I’m looking to collaborate on VueJs/NuxtJs/ReactJs/NextJs Jobs
 - 🌱 I’m currently learning Typescript, Algorithms & Design Patterns
@@ -43,28 +50,10 @@
  
 </div>
 
-# ⚡️ Tech Stack
-
-  - ### Web Development
-    - #### Languages:
-      [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://ryarturogi.github.io)
-    - #### Frameworks:
-      [![My Skills](https://skillicons.dev/icons?i=vuejs,nuxtjs,react,nextjs)](https://ryarturogi.github.io)
-    - #### CMS: 
-      [![My Skills](https://skillicons.dev/icons?i=wordpress,laravel)](https://ryarturogi.github.io)
-    - #### Server: 
-      [![My Skills](https://skillicons.dev/icons?i=firebase,supabase,mongodb,nodejs)](https://ryarturogi.github.io)
-  - ### Website Design:
-    [![My Skills](https://skillicons.dev/icons?i=figma,tailwind)](https://ryarturogi.github.io)
-  - ### Tools:
-    [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,heroku,vercel)](https://ryarturogi.github.io)
-
 # 📊 Stats
   [![Ryarturogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryarturogi)](https://github.com/ryarturogi)
   <br />
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryarturogi)](https://github.com/ryarturogi)
-  <br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryarturogi)](https://github.com/ryarturogi)
 
 # 📗 Resume
-[Resume-Ricardo-Guillen-I-FrontEnd-developer](https://github.com/ryarturogi/ryarturogi/files/10219399/Resume-Ricardo-Guillen-I.7.pdf)
+[Ricardo_Guillen_FE_Resume.pdf](https://github.com/ryarturogi/ryarturogi/files/10242623/Ricardo_Guillen_FE_Resume.pdf)
