@@ -11,11 +11,11 @@
 
 # 👋 Hi there
 
-As a senior front-end developer with over 8+ years of experience in software development, there has been a variety of projects worked on across multiple industries. Passion for using skills to create beautiful and powerful apps that can improve people's lives is held. 
+As a senior front-end developer with over 8+ years of experience in software development, there has been a variety of projects i has worked on across multiple industries. A lot of passion for using all skills learned to create beautiful and powerful applications that can improve people's lives is held. 
 
-Trained in HTML5, CSS3, and Javascript (React/Vue/Nuxt.js/Next.js), and experimenting with new technologies. Some notable career highlights include improving the SEO for a services marketplace app, increasing the delivery of code to production by 150%, and leading a team to create a digital banking system from scratch. 
+Trained in HTML5, CSS3, and Javascript (React/Vue/Nuxt.js/Next.js), always experimenting with new technologies. Some notable career highlights include improving the SEO for a services marketplace app, increasing the delivery of code to production by 150%, and leading a team to create a digital banking system from scratch. 
 
-In free time, enjoy exploring the outdoors and going on adventures like hiking.
+In free time, enjoy exploring the outdoors and going on adventures like hiking, trekking, backpacking, camping and horse trekking.
 
 - 🔭 I’m currently working at Elaniin - Tech Company - [Elaniin](https://elaniin.com/ "Elaniin - Tech Company")
 - 👯 I’m looking to collaborate on VueJs/NuxtJs/ReactJs/NextJs Jobs
