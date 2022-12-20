@@ -11,19 +11,17 @@
 
 # 👋 Hi there
 
-As a senior front-end developer with over 8+ years of experience in software development, there has been a variety of projects i has worked on across multiple industries. A lot of passion for using all skills learned to create beautiful and powerful applications that can improve people's lives is held. 
-
-Trained in HTML5, CSS3, and Javascript (React/Vue/Nuxt.js/Next.js), always experimenting with new technologies. Some notable career highlights include improving the SEO for a services marketplace app, increasing the delivery of code to production by 150%, and leading a team to create a digital banking system from scratch. 
+Highly skilled front-end engineer with 8+ years of experience and a strong track record of delivering successful projects. Proficient in React, Vue, Nuxt.js, and Next.js. Proven ability to mentor junior developers and deliver innovative, customer-focused solutions. Experienced in leading teams and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement.
 
 In free time, enjoy exploring the outdoors and going on adventures like hiking, trekking, backpacking, camping and horse trekking.
 
-- 🔭 I’m currently working at Elaniin - Tech Company - [Elaniin](https://elaniin.com/ "Elaniin - Tech Company")
+- 🔭 I’m currently working remotely
 - 👯 I’m looking to collaborate on VueJs/NuxtJs/ReactJs/NextJs Jobs
 - 🌱 I’m currently learning Typescript, Algorithms & Design Patterns
 - 💬 Ask me about outdoor adventures i know some secret places.. 
-- 📫 How to reach me: ricardo.guillen@elaniin.com // r.arturogi@gmail.com
+- 📫 How to reach me: r.arturogi@gmail.com
 - 😄 Nicknames: Ry, Richard, Richie, Viejito, Arturo, Ragi
-- ⚡ Fun fact: I drink React.js like coffee every morning!
+- ⚡ Fun fact: React.js is like coffee in the morning!
 
 <div align="left">
   <a href="https://twitter.com/ryarturogi">
