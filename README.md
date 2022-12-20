@@ -54,4 +54,4 @@ In free time, enjoy exploring the outdoors and going on adventures like hiking, 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryarturogi)](https://github.com/ryarturogi)
 
 # 📗 Resume
-[Ricardo_Guillen_FE_Resume.pdf](https://github.com/ryarturogi/ryarturogi/files/10242623/Ricardo_Guillen_FE_Resume.pdf)
+[Ricardo_Guillen_FE_Resume.pdf](https://github.com/ryarturogi/ryarturogi/files/10271217/Ricardo_Guillen_FE_Resume_Dec_2023.2.pdf)
