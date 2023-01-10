@@ -11,9 +11,7 @@
 
 # 👋 Hi there
 
-Highly skilled front-end engineer with 8+ years of experience and a strong track record of delivering successful projects. Proficient in React, Vue, Nuxt.js, and Next.js. Proven ability to mentor junior developers and deliver innovative, customer-focused solutions. Experienced in leading teams and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement.
-
-In free time, enjoy exploring the outdoors and going on adventures like hiking, trekking, backpacking, camping and horse trekking.
+8+ years of front-end engineering interfaces with a strong track record of delivering successful projects. Proven ability in mentoring junior developers and delivering innovative, customer-focused solutions. Experienced in working with teams around the world and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement
 
 - 🔭 I’m currently working remotely
 - 👯 I’m looking to collaborate on VueJs/NuxtJs/ReactJs/NextJs Jobs
@@ -54,4 +52,4 @@ In free time, enjoy exploring the outdoors and going on adventures like hiking, 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryarturogi)](https://github.com/ryarturogi)
 
 # 📗 Resume
-[Ricardo_Guillen_FE_Resume.pdf](https://github.com/ryarturogi/ryarturogi/files/10271217/Ricardo_Guillen_FE_Resume_Dec_2023.2.pdf)
+[Ricardo Guillen FE Resume 2023](https://github.com/ryarturogi/ryarturogi/files/10385574/Ricardo_Guillen_FE_Resume_2023.9.pdf)
