@@ -43,7 +43,7 @@
   </a>
 
 # 📊 Stats
-  [![Ryarturogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryarturogi&show_icons=true&theme=transparent)](https://github.com/ryarturogi) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryarturogi)](https://github.com/ryarturogi)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryarturogi)](https://github.com/ryarturogi)
   
 # 📗 Resume
 [Ricardo_Guillen_FE_Resume_2023](https://github.com/ryarturogi/ryarturogi/files/10401761/Ricardo_Guillen_FE_Resume_2023.pdf)
