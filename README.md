@@ -37,7 +37,7 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryarturogi)](https://github.com/ryarturogi)
   
 # 📗 Resume
-[Ricardo_Guillen_FE_Resume_2023](https://github.com/ryarturogi/ryarturogi/files/10401761/Ricardo_Guillen_FE_Resume_2023.pdf)
+[Ricardo Guillen FE Resume 2023](https://github.com/ryarturogi/ryarturogi/files/10681803/Ricardo_Guillen_FE_Resume_2023.pdf)
 
 [![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/8452197/214675141-8976389f-e888-42f4-99a8-d9b2a06cee8e.png)](https://www.linkedin.com/in/ryarturogi/)
 </div>
