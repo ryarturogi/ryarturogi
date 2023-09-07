@@ -11,7 +11,7 @@
 
 # 👋 Hi there
 
-8+ years of front-end engineering interfaces with a strong track record of delivering successful projects. Proven ability in mentoring junior developers and delivering innovative, customer-focused solutions. Experienced in working with teams around the world and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement
+⚡️ 8+ years of engineering web applications with a strong track record of delivering successful projects. Proven ability in mentoring junior/mid-level developers and delivering innovative, customer-focused solutions. Experienced in working with teams around the world and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement.
 
 - 🔭 I’m currently working remotely
 - 👯 I’m looking to collaborate on VueJs/NuxtJs/ReactJs/NextJs Jobs
