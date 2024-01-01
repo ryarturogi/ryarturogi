@@ -11,7 +11,7 @@
 
 # 👋 Hi there
 
-⚡️ 8+ years of engineering web applications with a strong track record of delivering successful projects. Proven ability in mentoring junior/mid-level developers and delivering innovative, customer-focused solutions. Experienced in working with teams around the world and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement.
+⚡️ 10+ years of engineering web applications with a strong track record of delivering successful projects. Proven ability in mentoring junior/mid-level developers and delivering innovative, customer-focused solutions. Experienced in working with teams around the world and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement.
 
 - 🔭 I’m currently working remotely
 - 👯 I’m looking to collaborate on VueJs/NuxtJs/ReactJs/NextJs Jobs
@@ -36,8 +36,5 @@
 # 📊 Stats
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryarturogi)](https://github.com/ryarturogi)
   
-# 📗 Resume
-[Ricardo Guillen FE Resume 2023](https://github.com/ryarturogi/ryarturogi/files/10681803/Ricardo_Guillen_FE_Resume_2023.pdf)
-
 [![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/8452197/214675141-8976389f-e888-42f4-99a8-d9b2a06cee8e.png)](https://www.linkedin.com/in/ryarturogi/)
 </div>
