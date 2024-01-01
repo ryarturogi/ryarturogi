@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/ryarturogi/" target="_blank">
+<a href="https://www.linkedin.com/in/ryarturogi/" target="new">
     <img src="https://user-images.githubusercontent.com/8452197/214675141-8976389f-e888-42f4-99a8-d9b2a06cee8e.png" alt="Black Technology LinkedIn Banner">
 </a>
 
