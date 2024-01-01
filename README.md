@@ -1,4 +1,6 @@
-[![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/8452197/214675141-8976389f-e888-42f4-99a8-d9b2a06cee8e.png)](https://www.linkedin.com/in/ryarturogi/)
+<a href="https://www.linkedin.com/in/ryarturogi/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/8452197/214675141-8976389f-e888-42f4-99a8-d9b2a06cee8e.png" alt="Black Technology LinkedIn Banner">
+</a>
 
 <div align="left">
   <a href="https://app.daily.dev/ryarturogi" target="_blank">
