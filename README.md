@@ -1,3 +1,5 @@
+[![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/8452197/214675141-8976389f-e888-42f4-99a8-d9b2a06cee8e.png)](https://www.linkedin.com/in/ryarturogi/)
+
 <div align="left">
   <a href="https://app.daily.dev/ryarturogi" target="_blank">
     <img
@@ -36,5 +38,4 @@
 # 📊 Stats
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryarturogi)](https://github.com/ryarturogi)
   
-[![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/8452197/214675141-8976389f-e888-42f4-99a8-d9b2a06cee8e.png)](https://www.linkedin.com/in/ryarturogi/)
 </div>
