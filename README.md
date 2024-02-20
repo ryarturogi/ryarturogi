@@ -3,14 +3,7 @@
 </a>
 
 <div align="left">
-  <a href="https://app.daily.dev/ryarturogi" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/ryarturogi/ryarturogi/blob/master/devcard.svg" 
-      alt="Ricardo Guillen's Dev Card"
-    />
-  </a>
+    <a href="https://app.daily.dev/ryarturogi"><img src="https://api.daily.dev/devcards/v2/8ac994e0955149439b7c292c99e87e9a.png?r=wbw" align="right" width="356" alt="Ricardo Guillen's Dev Card"/></a>
 </div>
 
 # 👋 Hi there
