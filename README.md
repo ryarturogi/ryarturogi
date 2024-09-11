@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/ryarturogi/" target="new">
-    <img src="https://user-images.githubusercontent.com/8452197/214675141-8976389f-e888-42f4-99a8-d9b2a06cee8e.png" alt="Black Technology LinkedIn Banner">
+     <img alt="Twitter URL" src="https://github.com/user-attachments/assets/0c4320fe-10f4-44d0-8645-eb001a3d5c7a"> 
 </a>
 
 <div align="left">
