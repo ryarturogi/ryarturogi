@@ -2,11 +2,11 @@
      <img alt="Twitter URL" src="https://github.com/user-attachments/assets/0c4320fe-10f4-44d0-8645-eb001a3d5c7a"> 
 </a>
 
+# 👋 Hey there!
+
 <div align="left">
     <a href="https://app.daily.dev/ryarturogi"><img src="https://api.daily.dev/devcards/v2/8ac994e0955149439b7c292c99e87e9a.png?r=wbw" align="right" width="356" alt="Ricardo Guillen's Dev Card"/></a>
 </div>
-
-# 👋 Hey there!
 
 ⚡️ Expert engineering web applications with a strong track record of delivering successful projects. Proven ability in mentoring junior/mid-level developers and delivering innovative, customer-focused solutions. Experienced in working with teams around the world and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement.
 
