@@ -6,17 +6,17 @@
     <a href="https://app.daily.dev/ryarturogi"><img src="https://api.daily.dev/devcards/v2/8ac994e0955149439b7c292c99e87e9a.png?r=wbw" align="right" width="356" alt="Ricardo Guillen's Dev Card"/></a>
 </div>
 
-# 👋 Hi there
+# 👋 Hey there!
 
-⚡️ 10+ years of engineering web applications with a strong track record of delivering successful projects. Proven ability in mentoring junior/mid-level developers and delivering innovative, customer-focused solutions. Experienced in working with teams around the world and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement.
+⚡️ Expert engineering web applications with a strong track record of delivering successful projects. Proven ability in mentoring junior/mid-level developers and delivering innovative, customer-focused solutions. Experienced in working with teams around the world and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement.
 
-- 🔭 I’m currently working remotely
+- 🔭 I’m currently looking to work remotely
 - 👯 I’m looking to collaborate on ReactJs/NextJs/Typescript Projects.
 - 🌱 I’m currently learning Typescript, Algorithms & Design Patterns
 - 💬 Ask me about outdoor adventures, I know few secret places...
 - 📫 How to reach me: r.arturogi@gmail.com
 - 😄 Nicknames: Ry, Richard, Richie, Viejito, Arturo, Ragi
-- ⚡ Fun fact: React.js & Typescript are like coffee in the morning!
+- ⚡ Fun fact: React.js & Typescript are like coffee in the morning, boost me up!
 
 <div align="left">
   <a href="https://twitter.com/ryarturogi">
