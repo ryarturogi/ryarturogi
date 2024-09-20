@@ -5,7 +5,7 @@
 # 👋 Hey there!
 
 <div align="left">
-     <a href="https://app.daily.dev/ryarturogi"><img src="https://api.daily.dev/devcards/v2/8ac994e0955149439b7c292c99e87e9a.png?type=default&r=wj8" align="right" width="356" alt="Ricardo Guillen's Dev Card"/></a>
+     <a href="https://app.daily.dev/ryarturogi"><img src="https://api.daily.dev/devcards/v2/8ac994e0955149439b7c292c99e87e9a.png?type=default&r=ywe" align="right" width="356" alt="Ricardo Guillen's Dev Card"/></a>
 </div>
 
 ⚡️ Results-driven Frontend Engineer with expertise in designing and engineering web applications. Skilled at mentoring junior developers, leading the frontend of innovative projects, and delivering customer-centric solutions. Experienced in collaborating with global teams, driving success for both multinational corporations and startups, with a focus on continuous improvement and scalability.
