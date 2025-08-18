@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/ryarturogi/" target="new">
-     <img alt="Linkedin URL" src="https://github.com/user-attachments/assets/cffd9507-7b92-4c4e-b5fb-872428e25f1e">
+     <img width="3812" height="1570" alt="image" src="https://github.com/user-attachments/assets/cfb9c570-fb1e-4368-b76c-f60a8a634e75" />
 </a>
 
 # 👋 Hey there!
