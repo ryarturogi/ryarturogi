@@ -31,5 +31,5 @@
   </a>
   
 ### 📊 Stats
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryarturogi)](https://github.com/ryarturogi)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryarturogi&theme=tokyonight-duo&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>
